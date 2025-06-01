@@ -1,0 +1,1 @@
+A reflex-based mobile game developed with Unity and C#. The player controls a colorful ball that can only pass through obstacles of the same color. Features include a dynamic color-switching mechanic, collision detection, and a scoring system. Designed as a simple yet addictive game to test players' timing and reflexes.
